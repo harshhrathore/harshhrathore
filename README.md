@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Harsh Rathore</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hey, I'm Harsh Rathore</h1>
+<h3 align="center">A passionate software engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhrathore&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrathore" /> </p>
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **harsh.23bai10453@vitbhopal.ac.in**
+- 📫 How to reach me **harsh.rathore2121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
