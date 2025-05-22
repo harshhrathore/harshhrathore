@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhrathore&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrathore" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow**
+
 
 - 📫 How to reach me **harsh.rathore2121@gmail.com**
 
