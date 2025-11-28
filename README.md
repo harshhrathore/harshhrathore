@@ -43,11 +43,11 @@ I'm a **Computer Science student** specializing in **AI-ML** at VIT University w
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhrathore26&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhrathore&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore26&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshhrathore26&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshhrathore&theme=radical)
 
 </div>
 
