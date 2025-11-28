@@ -42,8 +42,13 @@ I'm a **Computer Science student** specializing in **AI-ML** at VIT University w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshhrathore&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/harshhrathore?logo=github&style=for-the-badge&color=0e75b6" alt="Followers" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrathore&theme=github_dark&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore&layout=compact&theme=github_dark&show_icons=true&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎓 Education
