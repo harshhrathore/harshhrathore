@@ -1,21 +1,96 @@
+# Hi there, I'm Harsh Rathore! 👋
 
-<h1 align="center">Hey, I'm Harsh Rathore</h1>
-<h3 align="center">A passionate software engineering student from India</h3>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-rathore)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/harshhrathore26)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshhrathore26@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhrathore&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrathore" /> </p>
+</div>
+
+## 🚀 About Me
+
+I'm a **Computer Science student** specializing in **AI-ML** at VIT University with a passion for building innovative solutions. Actively working on full-stack development and machine learning projects.
+
+- 🌱 I'm learning advanced **Machine Learning** and **Full-Stack Development**
+- 💬 Ask me about **Python, React, Flutter, AI/ML**
+- 📫 Reach me at: **harshhrathore26@gmail.com**
+- 📍 Location: **Kanpur, Uttar Pradesh, India**
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Developer Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 
+## 📊 GitHub Stats
 
-- 📫 How to reach me **harsh.rathore2121@gmail.com**
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhrathore26&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshrathore26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshrathore26" height="30" width="40" /></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore26&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshhrathore26&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhrathore&show_icons=true&locale=en&layout=compact" alt="harshhrathore" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhrathore&show_icons=true&locale=en" alt="harshhrathore" /></p>
+## 🎓 Education
+
+**VIT Bhopal University** (2023 - 2027)
+- Bachelor of Technology in Computer Science (AI-ML Specialization)
+
+- **Relevant Coursework:** Data Structures & Algorithms, OOP, DBMS, Machine Learning, AI, Computer Networks, Operating Systems
+
+
+## 🌱 Community Involvement
+
+### National Service Scheme - Volunteer Leader
+**VIT Bhopal University** (August 2024)
+- Led a team of **2,000 students** in mega tree plantation drive
+- Successfully planted **10,000 trees** in Ujadkheda village
+- Organized special camps focused on health, nutrition, women's empowerment, and skill development
+
+## 💡 Interests & Hobbies
+
+🏀 Basketball | 🏊‍♂️ Swimming | 🎤 Public Speaking
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshhrathore26&color=blueviolet&style=for-the-badge)
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 📧 Email: harshhrathore26@gmail.com
+- 📱 Phone: +91-7007124519
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/harsh-rathore)
+- 🐙 GitHub: [@harshhrathore26](https://github.com/harshhrathore26)
+
+---
+
+<div align="center">
+  
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**⭐️ From [harshhrathore26](https://github.com/harshhrathore26)**
+
+</div>
