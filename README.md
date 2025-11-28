@@ -83,7 +83,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 📧 Email: harshhrathore26@gmail.com
 - 📱 Phone: +91-7007124519
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/harsh-rathore)
-- 🐙 GitHub: [@harshhrathore26](https://github.com/harshhrathore26)
 
 ---
 
