@@ -1,94 +1,139 @@
-# Hi there, I'm Harsh Rathore! 👋
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshrathore26/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshhrathore26@gmail.com)
+
+# Hi, I'm Harsh Rathore
+
+### AI/ML Student · Full-Stack Developer · Builder
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+build+AI-powered+apps;Full-Stack+Developer+in+progress;Machine+Learning+enthusiast;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/harshrathore26/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:harshhrathore26@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://github.com/harshhrathore"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshhrathore&label=Profile+Visitors&color=8B5CF6&style=for-the-badge)
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a **Computer Science student** specializing in **AI-ML** at VIT University with a passion for building innovative solutions. Actively working on full-stack development and machine learning projects.
+I am a **Computer Science student specializing in Artificial Intelligence and Machine Learning** at VIT Bhopal University. I enjoy turning ideas into practical products across the full stack, from clean interfaces and mobile experiences to data-driven and machine-learning solutions.
 
-- 🌱 I'm learning advanced **Machine Learning** and **Full-Stack Development**
-- 💬 Ask me about **Python, React, Flutter, AI/ML**
-- 📫 Reach me at: **harshhrathore26@gmail.com**
-- 📍 Location: **Kanpur, Uttar Pradesh, India**
+- Currently learning **advanced machine learning** and **full-stack development**.
 
-## 🛠️ Technical Skills
+- Comfortable discussing **Python, React, Flutter, and AI/ML**.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Based in **Kanpur, Uttar Pradesh, India**.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+- Open to **collaboration, learning opportunities, and interesting technical conversations**.
 
-### Developer Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+## What I’m Building and Learning
 
+| Focus | Current direction |
+| --- | --- |
+| Artificial Intelligence | Strengthening my foundations in machine learning and applied AI. |
+| Full-stack development | Building responsive, useful applications with modern front-end and back-end tools. |
+| Mobile development | Exploring cross-platform product experiences with Flutter. |
+| Open source | Improving my engineering workflow through public projects and collaboration. |
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrathore&theme=github_dark&hide_border=true" alt="Contribution Graph"/>
-</div>
+### Languages and Web
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,mysql&perline=6" alt="Python, C++, Java, HTML, CSS, and MySQL">
+</p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore&layout=compact&theme=github_dark&show_icons=true&hide_border=true" alt="Top Languages" />
-</div>
+### Frameworks, Libraries, and Tools
 
-## 🎓 Education
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,pandas,git,github,vscode,pycharm,idea&perline=8" alt="React, Flutter, Pandas, Git, GitHub, VS Code, PyCharm, and IntelliJ IDEA">
+</p>
 
-**VIT Bhopal University** (2023 - 2027)
-- Bachelor of Technology in Computer Science (AI-ML Specialization)
+**Additional experience:** Matplotlib, object-oriented programming, data structures and algorithms, DBMS, computer networks, and operating systems.
 
-- **Relevant Coursework:** Data Structures & Algorithms, OOP, DBMS, Machine Learning, AI, Computer Networks, Operating Systems
-
-
-## 🌱 Community Involvement
-
-### National Service Scheme - Volunteer Leader
-**VIT Bhopal University** (August 2024)
-- Led a team of **2,000 students** in mega tree plantation drive
-- Successfully planted **10,000 trees** in Ujadkheda village
-- Organized special camps focused on health, nutrition, women's empowerment, and skill development
-
-## 💡 Interests & Hobbies
-
-🏀 Basketball | 🏊‍♂️ Swimming | 🎤 Public Speaking
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshhrathore26&color=blueviolet&style=for-the-badge)
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 📧 Email: harshhrathore26@gmail.com
-- 📱 Phone: +91-7007124519
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/harshrathore26/)
-
----
+## GitHub Dashboard
 
 <div align="center">
-  
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**⭐️ From [harshhrathore26](https://github.com/harshhrathore26)**
+<a href="https://github.com/harshhrathore"><img height="170" src="https://github-readme-stats.vercel.app/api?username=harshhrathore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's GitHub statistics"></a><a href="https://github.com/harshhrathore"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's most-used programming languages"></a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshhrathore&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=FFFFFF" alt="Harsh's GitHub contribution streak"></a>
+
+
+
+
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrathore&theme=github_dark&hide_border=true" alt="Contribution profile details">
+
+
+
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshhrathore&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=F59E0B&area=true&hide_border=true" alt="GitHub activity graph"> </div>
+
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/harshhrathore/harshhrathore/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Snake animation](https://raw.githubusercontent.com/harshhrathore/harshhrathore/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
+
+## Featured Work
+
+Replace the placeholders below with your strongest repositories, live demos, and concise project descriptions.
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Project One](https://github.com/harshhrathore?tab=repositories) | Add a one-line description of your strongest AI/ML or full-stack project. | Python · ML |
+| [Project Two](https://github.com/harshhrathore?tab=repositories) | Add a one-line description of a polished web or mobile application. | React · Flutter |
+| [Project Three](https://github.com/harshhrathore?tab=repositories) | Add a one-line description of a project that demonstrates problem-solving depth. | C++ · Java · SQL |
+
+## Education
+
+**VIT Bhopal University** · 2023–2027Bachelor of Technology in Computer Science, **AI/ML Specialization**
+
+Relevant coursework includes **Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Machine Learning, Artificial Intelligence, Computer Networks, and Operating Systems**.
+
+## Community Involvement
+
+### National Service Scheme · Volunteer Leader
+
+**VIT Bhopal University** · August 2024
+
+Led a team of **2,000 students** during a large-scale tree-plantation drive that resulted in **10,000 trees planted** in Ujadkheda village. I also helped organize special camps focused on health, nutrition, women’s empowerment, and skill development.
+
+## Beyond the Code
+
+Basketball · Swimming · Public speaking
+
+## Let’s Connect
+
+I am always happy to discuss technology, collaborate on meaningful projects, or learn from other builders.
+
+<div align="center">
+
+<a href="mailto:harshhrathore26@gmail.com"><img src="https://img.shields.io/badge/Email-harshhrathore26%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harsh"></a><a href="https://www.linkedin.com/in/harshrathore26/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Rathore-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harsh on LinkedIn"></a>
+
+
+
+
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+**Thanks for stopping by. If you find something useful here, consider leaving a star.**
+
+</div> <!--
+Optional additions that require your own setup:
+
+1. Spotify card: configure a Spotify profile-card service and add its generated image URL.
+2. 3D graph: generate assets with a profile-3d-contrib GitHub Action and embed the generated SVG.
+3. Blog/activity feed: add a scheduled GitHub Action after you choose a Dev.to, Medium, or blog URL.
+
+The snake animation becomes live after adding .github/workflows/snake.yml to this profile repository.
+Phone number intentionally omitted from this public README for privacy.
+-->  <div align="center">
+  <sub>Designed with a focus on clarity, consistency, and continuous learning.</sub>
+</div> <!-- Profile repository: https://github.com/harshhrathore/harshhrathore --> <!-- Theme accent: #8B5CF6 --> <!-- End of profile README -->
