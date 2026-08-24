@@ -60,35 +60,31 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 
 ## GitHub Dashboard
 
-<div align="center"> <a href="https://github.com/harshhrathore">
-<picture>
+<div align="center">
+
+<a href="https://github.com/harshhrathore">
+  <picture>
     <source media="(prefers-color-scheme: dark )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrathore&theme=github_dark&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117">
     <source media="(prefers-color-scheme: light )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrathore&theme=default&title_color=6D28D9&icon_color=6D28D9&text_color=24292F&bg_color=FFFFFF">
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrathore&theme=github_dark&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's GitHub statistics">
   </picture>
 </a>
+
 <a href="https://github.com/harshhrathore">
   <picture>
     <source media="(prefers-color-scheme: dark )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrathore&theme=github_dark&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117">
     <source media="(prefers-color-scheme: light )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrathore&theme=default&title_color=6D28D9&text_color=24292F&bg_color=FFFFFF">
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrathore&theme=github_dark&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's repository language breakdown">
   </picture>
-</a>   
+</a>
+
+  
+  
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshhrathore&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=FFFFFF" alt="Harsh's GitHub contribution streak"></a>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrathore&theme=github_dark&hide_border=true" alt="Harsh's contribution profile details">
 
-
-
-
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrathore&theme=github_dark&hide_border=true" alt="Contribution profile details">
-
-
-
-
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshhrathore&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=F59E0B&area=true&hide_border=true" alt="GitHub activity graph"> </div>
+</div>
 
 ## Contribution Snake
 
