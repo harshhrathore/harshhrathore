@@ -100,13 +100,13 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 
 ## Featured Work
 
-Replace the placeholders below with your strongest repositories, live demos, and concise project descriptions.
+Here are three projects that showcase my work across computer vision, applied AI, and full-stack development.
 
 | Project | Description | Stack |
-| --- | --- | --- |
-| [Project One](https://github.com/harshhrathore?tab=repositories) | Add a one-line description of your strongest AI/ML or full-stack project. | Python · ML |
-| [Project Two](https://github.com/harshhrathore?tab=repositories) | Add a one-line description of a polished web or mobile application. | React · Flutter |
-| [Project Three](https://github.com/harshhrathore?tab=repositories) | Add a one-line description of a project that demonstrates problem-solving depth. | C++ · Java · SQL |
+|---|---|---|
+| [Drowsy Detect](https://github.com/harshhrathore/drowsy_detect ) | Real-time driver drowsiness detection using OpenCV face and eye tracking, yawn analysis, temporal filtering, and audio-visual alerts. | Python · OpenCV · Computer Vision |
+| [ContractLens](https://github.com/harshhrathore/Contract_lens ) | Intelligent legal-contract analysis pipeline with PDF preprocessing, LLM-powered clause extraction, summarization, semantic search, and a Streamlit viewer. | Python · LLMs · NLP · Streamlit |
+| [MedSync](https://github.com/harshhrathore/Medsync ) | Full-stack hospital management system for OPD registration, appointments, hospital search, patient records, and resource management. | React · Node.js · MongoDB |
 
 ## Education
 
