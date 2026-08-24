@@ -48,10 +48,15 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 ### Frameworks, Libraries, and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter,pandas,git,github,vscode,pycharm,idea&perline=8" alt="React, Flutter, Pandas, Git, GitHub, VS Code, PyCharm, and IntelliJ IDEA">
+  <img src="https://skillicons.dev/icons?i=react,flutter,git,github,vscode,pycharm,idea&perline=7" alt="React, Flutter, Git, GitHub, VS Code, PyCharm, and IntelliJ IDEA">
 </p>
 
-**Additional experience:** Matplotlib, object-oriented programming, data structures and algorithms, DBMS, computer networks, and operating systems.
+**Libraries:**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white )
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white )
+
+**Additional experience:** Data Structures and Algorithms, Object-Oriented Programming, DBMS, Computer Networks, and Operating Systems.
 
 ## GitHub Dashboard
 
