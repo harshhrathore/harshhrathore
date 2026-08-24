@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+build+AI-powered+apps;Full-Stack+Developer+in+progress;Machine+Learning+enthusiast;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/harshrathore26/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:harshhrathore26@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://github.com/harshhrathore"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/harshrathore26/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:harshrathoreworks@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://github.com/harshhrathore"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 
 
@@ -132,7 +132,7 @@ I am always happy to discuss technology, collaborate on meaningful projects, or 
 
 <div align="center">
 
-<a href="mailto:harshhrathore26@gmail.com"><img src="https://img.shields.io/badge/Email-harshhrathore26%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harsh"></a><a href="https://www.linkedin.com/in/harshrathore26/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Rathore-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harsh on LinkedIn"></a>
+<a href="mailto:harshrathoreworks@gmail.com"><img src="https://img.shields.io/badge/Email-harshrathoreworks%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harsh"></a><a href="https://www.linkedin.com/in/harshrathore26/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Rathore-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harsh on LinkedIn"></a>
 
 
 
