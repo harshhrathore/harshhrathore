@@ -55,9 +55,21 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 
 ## GitHub Dashboard
 
-<div align="center">
+<div align="center"> <a href="https://github.com/harshhrathore">
+<picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrathore&theme=github_dark&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrathore&theme=default&title_color=6D28D9&icon_color=6D28D9&text_color=24292F&bg_color=FFFFFF">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrathore&theme=github_dark&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's GitHub statistics">
+  </picture>
+</a>
+<a href="https://github.com/harshhrathore">
+  <picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrathore&theme=github_dark&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light )" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrathore&theme=default&title_color=6D28D9&text_color=24292F&bg_color=FFFFFF">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrathore&theme=github_dark&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's repository language breakdown">
+  </picture>
+</a>   
 
-<a href="https://github.com/harshhrathore"><img height="170" src="https://github-readme-stats.vercel.app/api?username=harshhrathore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's GitHub statistics"></a><a href="https://github.com/harshhrathore"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrathore&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" alt="Harsh's most-used programming languages"></a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshhrathore&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=FFFFFF" alt="Harsh's GitHub contribution streak"></a>
 
